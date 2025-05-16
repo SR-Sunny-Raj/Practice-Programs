@@ -1,4 +1,5 @@
 {
   "powermode.enabled": true,
-  "powermode.presets": "flames"
+  "powermode.presets": "flames",
+  "C_Cpp.errorSquiggles": "disabled"
 }
