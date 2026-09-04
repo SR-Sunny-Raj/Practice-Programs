@@ -1,5 +1,5 @@
 {
-  "powermode.enabled": true,
+  "powermode.enabled": false,
   "powermode.presets": "flames",
   "C_Cpp.errorSquiggles": "disabled",
   "files.associations": {
